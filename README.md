@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m a theoretical-cum-computational cosmologist working on calculating the electromagnetic signatures and gravitational waves produced in black holes mergers and neutron stars under the influence of gravitational lensing.
+- 🔭  I work in the field of astrophysics and as an astrophysicist, my work includes numerical and analytical modeling, analyzing large datasets, visualizing the data, and utilizing statistical techniques to understand astrophysical problems. Currently, I’m working on calculating the electromagnetic signatures and gravitational waves produced in black holes mergers and neutron stars under the influence of gravitational lensing.
 - 🌱 I’m currently learning GitHub
 - 👯 I’m looking to collaborate on LISA projects
 - 😄 Pronouns: He/Him/His
