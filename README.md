@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭  I work in the field of astrophysics and as an astrophysicist, my work includes numerical and analytical modeling, analyzing large datasets, visualizing the data, and utilizing statistical techniques to understand astrophysical problems. Currently, I’m working on calculating the electromagnetic signatures and gravitational waves produced in black hole mergers and neutron stars under the influence of gravitational lensing.
+- 🔭  I work in the field of computational particle and collider physics. My work includes numerical and analytical modeling, analyzing large datasets, visualizing the data, and utilizing statistical techniques to understand collider problems. Currently, I am working on the partonic and spin structure of hadrons, phenomenology for semi-inclusive/exclusive electron scattering, and the properties of hot/dense strongly interacting nuclear matter.
 - 🌱 I’m currently learning GitHub
-- 👯 I’m looking to collaborate on LISA projects
+- 👯 I’m collaborating with Brookhaven National Lab on SURGE project
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Holding unorthodox views about media & politics.
+- ⚡ Hobbies: Holding unorthodox views about media & politics.
